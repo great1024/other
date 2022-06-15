@@ -1,0 +1,11 @@
+<html>
+<a id = "send" style="display:none;" href="mailto:stackoverflowgit@google.com?Subject=曾碧茹是大傻子&Body=为什么是傻子呢？">给我发邮件</a>
+<script>
+    window.onload=function (){
+        document.getElementById("send").click();
+        // alert(111)
+        // window.location.herf = "mailto:stackoverflowgit@google.com?Subject=曾碧茹是大傻子&Body=为什么是傻子呢？"
+    }
+</script>
+<!--<a href="mailto:790444664@qq.com;test1@163.com?CC=test@163.com&BCC=test@163.com&Subject=Hello&Body=你好">给我发邮件</a>-->
+</html>
